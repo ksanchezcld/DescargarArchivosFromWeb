@@ -17,7 +17,7 @@ print color.BLUE + "\t\t*********************************" + color.ENDC
 print color.BLUE + "\t\t***Developed By: @ksanchez_cld***" + color.ENDC
 print color.BLUE + "\t\t*(Security + MGP + PS. Auditor)*"  + color.ENDC
 print color.BLUE + "\t\t*** @ksanchez_cld on twitter ***"  + color.ENDC
-print color.BLUE + "\t\t**Verificar Host Online/Offline**" + color.ENDC
+print color.BLUE + "\t\t** Descargar archivos Pcap.gz  **" + color.ENDC
 print color.BLUE + "\t\t*********************************" + color.ENDC
 
 EXTENSIONS = ['.pcap.gz']
