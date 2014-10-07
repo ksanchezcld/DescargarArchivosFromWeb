@@ -9,8 +9,6 @@ from urlparse import urlsplit
 
 class color:
 	BLUE = '\033[94m'
-	GREEN = '\033[92m'
-	RED = '\033[91m'
 	ENDC = '\033[0m'
 	
 print color.BLUE + "\t\t*********************************" + color.ENDC
